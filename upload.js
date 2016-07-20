@@ -37,6 +37,7 @@ function sendEmpresaPhoto(idEmpresa)
 							}
 						}
 					)
+				}
      		
 			success: function (response, status)
 			{
